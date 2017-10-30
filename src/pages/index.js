@@ -11,6 +11,7 @@ export default ({ data }) => {
       <g.H1 display={"inline-block"} borderBottom={"1px solid"}>
         Amazing Pandas Eating Things
       </g.H1>
+      <img src="http://res.cloudinary.com/mjg/image/upload/c_scale,w_400/v1509108050/sample.jpg" />
       <h4>
         {data.allMarkdownRemark.totalCount} Posts
       </h4>
